@@ -3,14 +3,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </h1>
 
-<h3 align="center">Python Programmer | Full Stack Developer | AI & ML Engineer</h3>
+<h3 align="center">Web developer | Full Stack Developer | AI & ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=750&lines=Python+Programmer;Full+Stack+Developer;AI+and+Machine+Learning+Enthusiast;Building+Smart+and+Scalable+Applications;Open+Source+Contributor;Problem+Solver+%26+Tech+Explorer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hanuman0031&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh421377&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
